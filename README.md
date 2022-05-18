@@ -1,2 +1,3 @@
 # GeneticosTPS
-Repositorio con los trabajos prácticos realizados para la materia algoritmos géneticos durante el año 2020.
+Repositorio con el primer trabajo práctico realizado durante el año 2020 para la materia algoritmos géneticos.
+
